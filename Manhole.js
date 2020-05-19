@@ -1,0 +1,6 @@
+class Manhole{
+    constructor(){
+    }
+    display(){
+    }
+}
